@@ -1,6 +1,6 @@
 {
     "name": "thedudev2/livewire-editorjs",
-    "description": "This Package aims for an easy integration of Editor.JS with Laravel Livewire (updated for Laravel 10 and PHP 8.2",
+    "description": "This Package aims for an easy integration of Editor.JS with Laravel Livewire (updated for Laravel 10 and PHP 8.2"),
     "keywords": [
         "maxeckel",
         "thedudev2",
@@ -13,6 +13,11 @@
         {
             "name": "Max Eckel",
             "email": "contact@max-eckel.dev",
+            "role": "Developer"
+        }
+        {
+            "name": "Emil Tremblay",
+            "email": "emil@ambrgrading.com",
             "role": "Developer"
         }
     ],
