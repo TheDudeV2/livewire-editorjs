@@ -1,9 +1,9 @@
 # Easy integration of Editor.js in Laravel Livewire
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/maxeckel/livewire-editorjs.svg?style=for-the-badge)](https://packagist.org/packages/maxeckel/livewire-editorjs)
-[![Total Downloads](https://img.shields.io/packagist/dt/maxeckel/livewire-editorjs.svg?style=for-the-badge)](https://packagist.org/packages/maxeckel/livewire-editorjs)
-![GitHub](https://img.shields.io/github/license/maxeckel/livewire-editorjs?style=for-the-badge)
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/maxeckel/livewire-editorjs/run-tests?style=for-the-badge)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/thedudev2/livewire-editorjs.svg?style=for-the-badge)](https://packagist.org/packages/maxeckel/livewire-editorjs)
+[![Total Downloads](https://img.shields.io/packagist/dt/thedudev2/livewire-editorjs.svg?style=for-the-badge)](https://packagist.org/packages/thedudev2/livewire-editorjs)
+![GitHub](https://img.shields.io/github/license/thedudev2/livewire-editorjs?style=for-the-badge)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/thedudev2/livewire-editorjs/run-tests?style=for-the-badge)
 
 This Package adds a Livewire component to your application, which will create an Editor.js instance for you.
 
@@ -25,7 +25,7 @@ Please refer to the linked guides on how to install these.
 You can install the package via composer:
 
 ```bash
-composer require maxeckel/livewire-editorjs
+composer require thedudev2/livewire-editorjs
 ```
 
 After composer downloaded the package, you will need to publish it's config & assets:
@@ -322,7 +322,7 @@ provided by this package. That way, you will receive updates and still can custo
 
 namespace App\Http\Livewire;
 
-use Maxeckel\LivewireEditorjs\Http\Livewire\EditorJS;
+use Thedudev2\LivewireEditorjs\Http\Livewire\EditorJS;
 
 class MyCustomEditor extends EditorJS
 {
@@ -351,6 +351,7 @@ If you discover any security related issues, please email security@max-eckel.dev
 ## Credits
 
 - [Max Eckel](https://github.com/maxeckel)
+- [TheDudeV1]('https://github.com/thedudev2) (only the smallest, tiniest amount of credit)
 - [All Contributors](../../contributors)
 
 ## License
