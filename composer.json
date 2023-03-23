@@ -1,11 +1,12 @@
 {
-    "name": "maxeckel/livewire-editorjs",
-    "description": "This Package aims for an easy integration of Editor.JS with Laravel Livewire",
+    "name": "thedudev2/livewire-editorjs",
+    "description": "This Package aims for an easy integration of Editor.JS with Laravel Livewire (updated for Laravel 10 and PHP 8.2",
     "keywords": [
         "maxeckel",
+        "thedudev2",
         "livewire-editorjs"
     ],
-    "homepage": "https://github.com/maxeckel/livewire-editorjs",
+    "homepage": "https://github.com/thedudev2/livewire-editorjs",
     "license": "MIT",
     "type": "library",
     "authors": [
